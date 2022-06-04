@@ -36,7 +36,7 @@
 |28.|Max. Consecutive Ones|
 
 
-
+<br><br>
 - **LINKED LISTS**
 
 |S.NO.|PROBLEM|                                                                         
@@ -56,3 +56,14 @@
 |13.|Rotate a LL|
 |14.|Clone a LL with random and next ptr|
 
+<br><br>
+- **GREEDY ALGOS**
+
+|S.NO.|PROBLEM|                                                                         
+|-----|-------|
+|1.|N Meeting in One Room|
+|2.|Min no. of platforms|
+|3.|Job Sequencing Problem|
+|4.|Fractional Knapsack Problem|
+|5.|Find min no. of coins|
+|6.|Activity Selection|
