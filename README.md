@@ -1,3 +1,6 @@
+<p align = "center">
+  <img width = 500 src= "https://user-images.githubusercontent.com/94545831/172013378-c7b31299-902b-451d-a844-6a7ffbb8841c.gif" /> </p>
+  
 # TABLE OF CONTENTS
 1. [Arrays and Matrix](#arrays-and-matrix)
 2. [Linked Lists](#linked-lists)
