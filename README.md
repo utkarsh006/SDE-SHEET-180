@@ -30,4 +30,29 @@
 |22.|Longest Subarray with 0 Sum|
 |23.|Count no. of subarrays with given k|
 |24.|Longest Substring without repeat|
+|25.|3 SUM|
+|26.|Trapping Rainwater|
+|27.|Remove duplicates from Sorted Array|
+|28.|Max. Consecutive Ones|
+
+
+
+- **LINKED LISTS**
+
+|S.NO.|PROBLEM|                                                                         
+|-----|-------|
+|1.|Reverse a Linked List|
+|2.|Find Middle of Linked List|
+|3.|Merge 2 sorted Linked List|
+|4.|Remove nth node from back|
+|5.|Add 2 nos. as lists|
+|6.|Delete a node when a node is given|
+|7.|Find Intersection point of LL|
+|8.|Detect a cycle in LL|
+|9.|Reverse a LL in groups of size k|
+|10.|Check if LL is Palindrome|
+|11.|Find starting point of loop of LL|
+|12.|Flatten a LL
+|13.|Rotate a LL|
+|14.|Clone a LL with random and next ptr|
 
