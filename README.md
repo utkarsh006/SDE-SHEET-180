@@ -2,10 +2,10 @@
   <img width = 500 src= "https://user-images.githubusercontent.com/94545831/172013378-c7b31299-902b-451d-a844-6a7ffbb8841c.gif" /> </p>
   
 # TABLE OF CONTENTS
-1. [Arrays and Matrix](#arrays-and-matrix)
-2. [Linked Lists](#linked-lists)
-3. [Greedy Algos](#greedy-algos)
-4. [Recursion and Backtracking](#recursion-and-backtracking)
+- [Arrays and Matrix](#arrays-and-matrix)
+- [Linked Lists](#linked-lists)
+- [Greedy Algos](#greedy-algos)
+- [Recursion and Backtracking](#recursion-and-backtracking)
 
 <br><br>
 ## ARRAYS AND MATRIX
