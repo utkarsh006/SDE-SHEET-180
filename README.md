@@ -67,3 +67,21 @@
 |4.|Fractional Knapsack Problem|
 |5.|Find min no. of coins|
 |6.|Activity Selection|
+
+<br><br>
+- **Recursion & Backtracking**
+
+|S.NO.|PROBLEM|                                                                         
+|-----|-------|
+|1.|Subset Sum|
+|2.|Subset Sum II|
+|3.|Combination SUM I|
+|4.|Combination SUM II|
+|5.|Palindrome Partitioning|
+|6.|Kth Permutation Sequence|
+|7.|Print all permutations of array/string|
+|8.|N Queens|
+|9.|Sudoku Solver|
+|10.|M Coloring Problem|
+|11.|Rat in a Maze|
+|12.|Word Break|
