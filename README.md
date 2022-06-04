@@ -1,8 +1,11 @@
-<p align = "center">
-<img width = 500 src = "https://user-images.githubusercontent.com/94545831/172004206-5bcedff0-d5cf-4efe-a707-2e08df58b988.gif" /> </p>
+# TABLE OF CONTENTS
+1. [Arrays and Matrix](#arrays-and-matrix)
+2. [Linked Lists](#linked-lists)
+3. [Greedy Algos](#greedy-algos)
+4. [Recursion and Backtracking](#recursion-and-backtracking)
 
-
-- **ARRAYS & MATRIX**
+<br><br>
+## ARRAYS AND MATRIX
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
@@ -37,7 +40,7 @@
 
 
 <br><br>
-- **LINKED LISTS**
+## LINKED LISTS
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
@@ -57,7 +60,7 @@
 |14.|Clone a LL with random and next ptr|
 
 <br><br>
-- **GREEDY ALGOS**
+## GREEDY ALGOS
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
@@ -69,7 +72,7 @@
 |6.|Activity Selection|
 
 <br><br>
-- **Recursion & Backtracking**
+## Recursion and Backtracking
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
