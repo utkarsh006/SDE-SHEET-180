@@ -12,11 +12,11 @@
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
-|1.|Set Matrix Zeros|
-|2.|Pascal Triangle|
+|1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|
+|2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|
 |3.|Next Permutation|
 |4.|Kadane's Algo|
-|5.|Dutch National Flag Algo|
+|5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|
 |6.|Stock Buy and Sell|
 |7.|Rotate Matrix|
 |8.|Merge Overlapping Subintervals|
