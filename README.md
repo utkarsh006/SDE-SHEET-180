@@ -47,7 +47,7 @@
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
-|1.|Reverse a Linked List|
+|1.|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)|
 |2.|Find Middle of Linked List|
 |3.|Merge 2 sorted Linked List|
 |4.|Remove nth node from back|
