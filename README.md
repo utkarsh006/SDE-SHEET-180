@@ -53,7 +53,7 @@
 |4.|Remove nth node from back|
 |5.|Add 2 nos. as lists|
 |6.|Delete a node when a node is given|
-|7.|Find Intersection point of LL|
+|7.|[Find Intersection point of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)|
 |8.|Detect a cycle in LL|
 |9.|Reverse a LL in groups of size k|
 |10.|Check if LL is Palindrome|
