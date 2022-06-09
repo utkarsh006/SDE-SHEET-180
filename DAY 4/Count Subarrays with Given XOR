@@ -1,0 +1,15 @@
+int subarraysXor(vector<int> &arr, int x)
+{
+   map<int,int> mp;
+   int xr =0 , cnt = 0;
+    for(int i=0;i<arr.size();i++)
+    {
+        xr ^=arr[i];
+        if(xr == x) cnt++;
+        if(mp.find(xr ^ x) != mp.end())
+            cnt += mp[xr ^ x];
+        mp[xr]++;
+    }
+    return cnt;
+
+}
