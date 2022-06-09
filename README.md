@@ -25,7 +25,7 @@
 |11.|Repeat and Missing number|
 |12.|Inversion Of Array|
 |13.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
-|14.|Pow(x,n)|
+|14.|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|
 |15.|Majority Element (> N/2 Times)|
 |16.|Majority Element (> N/3 Times)|
 |17.|Grid Unique Paths|
