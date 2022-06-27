@@ -1,0 +1,43 @@
+void topoSort(int node, vector<bool> &vis, stack<int> &s, unordered_map<int,list<int>> &adj)
+{
+    vis[node]=1;
+      
+      for(auto neighbour: adj[node])
+      {
+          if(!vis[neighbour])
+              topoSort(neighbour, vis, s, adj);
+      }
+    s.push(node);
+}
+
+vector<int> topologicalSort(vector<vector<int>> &edges, int v, int e)  
+{
+    //create adjacency list
+    unordered_map<int,list<int>> adj;
+     for(int i=0; i<e; i++)
+     {
+         int u = edges[i][0];
+         int v = edges[i][1];
+         adj[u].push_back(v);
+     }
+    
+    // call dfs topo sort for all components
+    vector<bool> vis(v);
+    stack<int>s;
+    
+      for(int i=0; i<v; i++)
+      {
+          if(!vis[i])
+              topoSort(i, vis, s, adj);  
+      }
+    
+    // answer is now in stack. Put it into vector
+    vector<int> ans;
+    
+      while(!s.empty())
+      {
+          ans.push_back(s.top());
+          s.pop();
+      }
+    return ans;
+}
