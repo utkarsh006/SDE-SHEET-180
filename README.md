@@ -104,8 +104,8 @@
 |5.|[Detect a cycle in Undirected graph(DFS)](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems)|
 |6.|[Detect a cycle in directed graph(DFS)](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?topList=striver-sde-sheet-problems&leftPanelTab=0)|
 |7.|[Detect a cycle in directed graph(BFS)](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?topList=striver-sde-sheet-problems&leftPanelTab=0)|
-|8.|Topological Sort(DFS)|
-|9.|Topological Sort(BFS)|
+|8.|[Topological Sort(DFS)](https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=striver-sde-sheet-problems&leftPanelTab=0)|
+|9.|[Topological Sort(BFS)](https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=striver-sde-sheet-problems&leftPanelTab=0)|
 |10.|No. of Islands|
 |11.|Bipartite check(DFS)|
 |12.|Bipartite check(BFS)|
