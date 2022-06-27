@@ -99,9 +99,9 @@
 |-----|-------|
 |1.|Clone a Graph|
 |2.|[DFS](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=striver-sde-sheet-problems)|
-|3.|BFS|
-|4.|Detect a cycle in Undirected graph(BFS)|
-|5.|Detect a cycle in Undirected graph(DFS)|
+|3.|[BFS](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002?topList=striver-sde-sheet-problems)|
+|4.|[Detect a cycle in Undirected graph(BFS)](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems)|
+|5.|[Detect a cycle in Undirected graph(DFS)](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems)|
 |6.|Detect a cycle in directed graph(DFS)|
 |7.|Detect a cycle in directed graph(BFS)|
 |8.|Topological Sort(DFS)|
