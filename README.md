@@ -98,7 +98,7 @@
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
 |1.|Clone a Graph|
-|2.|DFS|
+|2.|[DFS](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=striver-sde-sheet-problems)|
 |3.|BFS|
 |4.|Detect a cycle in Undirected graph(BFS)|
 |5.|Detect a cycle in Undirected graph(DFS)|
