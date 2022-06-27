@@ -6,6 +6,7 @@
 - [Linked Lists](#linked-lists)
 - [Greedy Algos](#greedy-algos)
 - [Recursion and Backtracking](#recursion-and-backtracking)
+- [Graphs](#graphs)
 
 <br><br>
 ## ARRAYS AND MATRIX
@@ -91,3 +92,31 @@
 |10.|M Coloring Problem|
 |11.|Rat in a Maze|
 |12.|Word Break|
+
+## Graphs
+
+|S.NO.|PROBLEM|                                                                         
+|-----|-------|
+|1.|Clone a Graph|
+|2.|DFS|
+|3.|BFS|
+|4.|Detect a cycle in Undirected graph(BFS)|
+|5.|Detect a cycle in Undirected graph(DFS)|
+|6.|Detect a cycle in directed graph(DFS)|
+|7.|Detect a cycle in directed graph(BFS)|
+|8.|Topological Sort(DFS)|
+|9.|Topological Sort(BFS)|
+|10.|No. of Islands|
+|11.|Bipartite check(DFS)|
+|12.|Bipartite check(BFS)|
+|13.|Kosaraju Algo|
+|14.|Dijkstra Algo|
+|15.|Bellman Ford Algo|
+|16.|Floyd Warshall Algo|
+|17.|MST Using Prim's Algo|
+|18.|MST Using Kruskal's Algo|
+
+
+
+
+
