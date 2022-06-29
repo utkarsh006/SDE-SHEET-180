@@ -1,0 +1,35 @@
+class Solution 
+{
+    public:
+    
+    static bool comp(Job a, Job b)
+    {
+        return a.profit>b.profit;
+    }
+    
+    vector<int> JobScheduling(Job arr[], int n) 
+    { 
+        sort(arr, arr+n, comp);  // sorted in desc order
+        
+        bool done[n]={0};  // fill the time array with 0 initially
+        
+        int day=0, profit=0;
+        
+          for(int i=0; i<n; i++)
+          {
+              for(int j = min(n,arr[i].dead-1); j>=0; j--) // check time slots 
+              {
+                  if(done[j]==false)  // not filled
+                  {
+                      day += 1;
+                      profit += arr[i].profit;
+                      
+                      done[j]=true; 
+                      // slot of curr job is done so break
+                      break;
+                  }
+              }
+          }
+          return {day,profit};
+    } 
+};
