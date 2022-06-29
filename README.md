@@ -68,7 +68,7 @@
 
 |S.NO.|PROBLEM|                                                                         
 |-----|-------|
-|1.|N Meeting in One Room|
+|1.|[N Meeting in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)|
 |2.|Min no. of platforms|
 |3.|Job Sequencing Problem|
 |4.|Fractional Knapsack Problem|
