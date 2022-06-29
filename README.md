@@ -70,7 +70,7 @@
 |-----|-------|
 |1.|[N Meeting in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)|
 |2.|[Min no. of platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)|
-|3.|Job Sequencing Problem|
+|3.|[Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)|
 |4.|Fractional Knapsack Problem|
 |5.|Find min no. of coins|
 |6.|Activity Selection|
