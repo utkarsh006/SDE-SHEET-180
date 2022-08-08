@@ -1,43 +1,55 @@
-void topoSort(int node, vector<bool> &vis, stack<int> &s, unordered_map<int,list<int>> &adj)
-{
-    vis[node]=1;
-      
-      for(auto neighbour: adj[node])
-      {
-          if(!vis[neighbour])
-              topoSort(neighbour, vis, s, adj);
-      }
-    s.push(node);
-}
+/* TOPOLOGICAL SORT(DFS)
 
-vector<int> topologicalSort(vector<vector<int>> &edges, int v, int e)  
+1. Do Dfs call.
+2. Mark the node as visited.
+3. Explore the neighbours.
+4. If neighbour found, repeat step 1-3.
+5. If no neighbour, return from function call and push that node into the stack.
+6. Print the stack values.   */
+
+class Solution
 {
-    //create adjacency list
-    unordered_map<int,list<int>> adj;
-     for(int i=0; i<e; i++)
-     {
-         int u = edges[i][0];
-         int v = edges[i][1];
-         adj[u].push_back(v);
-     }
-    
-    // call dfs topo sort for all components
-    vector<bool> vis(v);
-    stack<int>s;
-    
-      for(int i=0; i<v; i++)
-      {
-          if(!vis[i])
-              topoSort(i, vis, s, adj);  
-      }
-    
-    // answer is now in stack. Put it into vector
-    vector<int> ans;
-    
-      while(!s.empty())
-      {
-          ans.push_back(s.top());
-          s.pop();
-      }
-    return ans;
-}
+	public:
+	
+	void DFS(int node, vector<bool> &visited, stack<int> &st, vector<int> adj[])
+	{
+	    visited[node]=1;  //mark the node as true
+	    
+	      //explore the neighbours
+	      for(auto neighbour : adj[node])
+	      {
+	          // if neighbour is not visited then call DFS
+	          if(!visited[neighbour])
+	          {
+	              DFS(neighbour, visited, st, adj);
+	          }
+	      }
+	      
+	     st.push(node); // if returning from function call, push that node into the stack
+	}
+	
+	
+	vector<int> topoSort(int V, vector<int> adj[]) 
+	{
+	    vector<bool> visited(V,false);
+	    stack<int> st;
+	    
+	    // call DFS Topological sort for all components
+	       for(int i=0; i<V; i++)
+	       {
+	           if(!visited[i])
+	             DFS(i, visited, st, adj);
+	       }
+	       
+	   // answer is now in stack, push it to the vector
+	         vector<int>ans;
+	         
+	         while(!st.empty())
+	         {
+	             ans.push_back(st.top());
+	             st.pop();
+	         }
+	        
+	     return ans;  
+	}
+};
