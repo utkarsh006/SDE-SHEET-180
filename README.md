@@ -7,6 +7,7 @@
 - [Greedy Algos](#greedy-algos)
 - [Recursion and Backtracking](#recursion-and-backtracking)
 - [Graphs](#graphs)
+- [Binary Search](#binary-search)
 
 <br><br>
 ## ARRAYS AND MATRIX
@@ -117,6 +118,18 @@
 |18.|MST Using Kruskal's Algo|
 
 
+## Binary Search
+
+|S.NO.|PROBLEM|                                                                         
+|-----|-------|
+|1.|[Nth root of an Integer](https://www.codingninjas.com/codestudio/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)|
+|2.|[Matrix Median](https://www.interviewbit.com/problems/matrix-median/)|
+|3.|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+|4.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+|5.|[Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
+|6.|[Kth element of 2 sorted arrays](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)|
+|7.|Allocate min no of pages|
+|8.|Aggressive Cows|
 
 
 
