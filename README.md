@@ -8,6 +8,10 @@
 - [Recursion and Backtracking](#recursion-and-backtracking)
 - [Graphs](#graphs)
 - [Binary Search](#binary-search)
+- Heaps
+- Bit Manipulation
+- Stacks and Queues
+- Strings
 
 <br><br>
 ## ARRAYS AND MATRIX
