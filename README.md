@@ -17,9 +17,9 @@
 <br><br>
 ## ARRAYS AND MATRIX
 
-|S.NO.|PROBLEM|                                                                         
-|-----|-------|
-|1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|
+|S.NO.|PROBLEM|SOLUTION|                                                                        
+|-----|-------|-----|
+|1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/Set%20Matrix%20Zeroes.cpp)
 |2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|
 |3.|Next Permutation|
 |4.|Kadane's Algo|
