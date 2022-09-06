@@ -23,7 +23,7 @@
 |2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Pascal's%20Triangle.cpp)
 |3.|Next Permutation|
 |4.|Kadane's Algo|
-|5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|
+|5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Sort%20Colors.cpp)|
 |6.|Stock Buy and Sell|
 |7.|Rotate Matrix|
 |8.|Merge Overlapping Subintervals|
