@@ -22,7 +22,7 @@
 |1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Set%20Matrix%20Zeroes.cpp)
 |2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Pascal's%20Triangle.cpp)
 |3.|Next Permutation|
-|4.|Kadane's Algo|
+|4.|[Kadane's Algo](https://leetcode.com/problems/maximum-subarray/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Kadane's%20Algo.cpp)
 |5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Sort%20Colors.cpp)|
 |6.|Stock Buy and Sell|
 |7.|Rotate Matrix|
