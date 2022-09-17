@@ -40,7 +40,7 @@
 |19.|2 SUM|
 |20.|4 SUM|
 |21.|Longest Consecutive Sequence|
-|22.|Longest Subarray with 0 Sum|
+|22.|[Longest Subarray with 0 Sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)|
 |23.|[Count no. of subarrays with given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-p)|
 |24.|Longest Substring without repeat|
 |25.|3 SUM|
