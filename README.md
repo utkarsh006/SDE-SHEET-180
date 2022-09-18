@@ -33,8 +33,8 @@
 |12.|Inversion Of Array|
 |13.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
 |14.|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|
-|15.|Majority Element (> N/2 Times)|
-|16.|Majority Element (> N/3 Times)|
+|15.|[Majority Element (> N/2 Times)](https://leetcode.com/problems/majority-element/)|
+|16.|[Majority Element (> N/3 Times)](https://leetcode.com/problems/majority-element-ii/)|
 |17.|Grid Unique Paths|
 |18.|Reverse Pairs|
 |19.|2 SUM|
