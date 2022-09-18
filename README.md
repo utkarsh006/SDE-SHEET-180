@@ -44,7 +44,7 @@
 |23.|[Count no. of subarrays with given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-p)|
 |24.|Longest Substring without repeat|
 |25.|3 SUM|
-|26.|Trapping Rainwater|
+|26.|[Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/)|
 |27.|Remove duplicates from Sorted Array|
 |28.|Max. Consecutive Ones|
 
