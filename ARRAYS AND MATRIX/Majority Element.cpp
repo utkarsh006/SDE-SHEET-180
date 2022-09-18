@@ -28,12 +28,15 @@ public:
     int majorityElement(vector<int>& nums)
     {
         int counter = 0, majority;
-        for (int num : nums) 
+        for (int it : nums) 
         {
-            if (!counter) 
-                majority = num;
+            if (counter == 0) 
+                majority = it;
             
-            counter += num == majority ? 1 : -1;
+            if(it == majority) 
+               counter += 1;
+            
+            else counter += -1;
         }
         return majority;
     }
