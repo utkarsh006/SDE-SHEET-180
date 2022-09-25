@@ -1,14 +1,14 @@
-long long maxSubarraySum(int arr[], int n)
+ long long maxSubarraySum(int arr[], int n)
     {
-         long long currsum = 0;
-         long long maxSum = arr[0];
-         
-          for(int i = 0; i<n; i++)
+         int sum=0, maxi= INT_MIN;
+        
+          for(int i=0; i<n; i++)
           {
-            currsum += arr[i];
-            maxSum = max(maxSum, currsum);
-            
-            if(currsum<0) currsum = 0;
-        }
-        return maxSum;
+              sum += arr[i];
+              
+                if(sum>maxi) maxi = sum;
+                if(sum<0) sum=0;
+          }
+          
+          return maxi;
     }
