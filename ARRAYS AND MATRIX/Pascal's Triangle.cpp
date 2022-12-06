@@ -15,11 +15,9 @@ public:
              for(int j=1; j<i; j++)
              {
                    // i=2 [1,1]
-                  // i=3 [1,1,1]will u take?
-                 // obviously j and j-1 idx
-                // go to previous row i-1 which idx 
-                //sum of above 2 boxes
-                 
+                  // i=3  [1,1,1] what idx will u take to change middle 1?
+                 //  go to previous row that is i-1 and obviously pick j and j-1 idx
+                
                   v[j]= ans[i-1][j] + ans[i-1][j-1];
                     
              }
