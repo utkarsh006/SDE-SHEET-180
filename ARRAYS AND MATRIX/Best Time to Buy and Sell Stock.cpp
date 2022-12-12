@@ -9,28 +9,24 @@
 
 class Solution {
 public:
-    
+
     int maxProfit(vector<int>& arr) 
     {
-        // consider the first idx as minimum value
-        int mini = arr[0];
-        // initially assume profit to be 0
-        int profit = 0;
-        
-        int n = arr.size();
-        
-            for(int i=1; i<n; i++)
-            {
-                //for each idx calculate profit
-                int diff = arr[i]-mini;
-                
-                //checking max profit
-                profit = max(profit,diff);
-                
-                //update minimum value for buying
-                mini = min(mini,arr[i]);
-            }
-        
-        return profit;
+        int n=arr.size();
+        int maxProfit=0, minPrice=INT_MAX;
+
+           for(int i=0; i<n; i++)
+           {
+               // updating min value for buying
+               minPrice = min(minPrice,arr[i]);
+
+               //for each idx calculate profit
+               int diff = arr[i]-minPrice;
+
+               //check max profit
+               maxProfit = max(maxProfit, diff);
+           }
+
+           return maxProfit;
     }
 };
