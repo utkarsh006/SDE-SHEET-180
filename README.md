@@ -27,7 +27,7 @@
 |6.|[Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|
 |7.|[Rotate Matrix](https://leetcode.com/problems/rotate-image/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Rotate%20Image.cpp)
 |8.|[Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/description/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Merge%20Intervals.cpp)
-|9.|Merge 2 Sorted Arrays without Extra Space|
+|9.|[Merge 2 Sorted Arrays without Extra Space](https://leetcode.com/problems/merge-sorted-array/description/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Merge%20Without%20Extra%20Space.cpp)
 |10.|Find duplicate in an array of N+1 integers|
 |11.|Repeat and Missing number|
 |12.|Inversion Of Array|
