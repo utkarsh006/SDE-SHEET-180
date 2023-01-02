@@ -13,7 +13,7 @@
 - Bit Manipulation
 - Stacks and Queues
 - Strings
-- HR INTERVIEW SHEET
+- [HR INTERVIEW SHEET](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/HR%20Interview%20Questions.pdf)
 
 <br><br>
 ## ARRAYS AND MATRIX
