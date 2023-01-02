@@ -13,6 +13,7 @@
 - Bit Manipulation
 - Stacks and Queues
 - Strings
+- HR INTERVIEW SHEET
 
 <br><br>
 ## ARRAYS AND MATRIX
