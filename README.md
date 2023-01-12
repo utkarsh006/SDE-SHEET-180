@@ -1,7 +1,11 @@
 <p align = "center">
   <img width = 500 src= "https://user-images.githubusercontent.com/94545831/172013378-c7b31299-902b-451d-a844-6a7ffbb8841c.gif" /> </p>
   
-  [OFFICIAL LINK TO THE SHEET](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+|||
+|--|--|
+|[Link to Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)|[Find Solutions Here 😉](https://www.youtube.com/playlist?list=PLJHIvga3HLZwPsIVa59FwOYRqwBnfzbTy)|
+<br>
+
 # TABLE OF CONTENTS
 - [Arrays and Matrix](#arrays-and-matrix)
 - [Linked Lists](#linked-lists)
