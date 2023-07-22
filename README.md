@@ -42,13 +42,13 @@
 |16.|[Majority Element (> N/3 Times)](https://leetcode.com/problems/majority-element-ii/)|
 |17.|Grid Unique Paths|
 |18.|Reverse Pairs|
-|19.|2 SUM|
-|20.|4 SUM|
+|19.|[2 SUM](https://leetcode.com/problems/two-sum/)|
+|20.|[4 SUM](https://leetcode.com/problems/4sum/)|
 |21.|Longest Consecutive Sequence|
 |22.|[Longest Subarray with 0 Sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)|
 |23.|[Count no. of subarrays with given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-p)|
 |24.|Longest Substring without repeat|
-|25.|3 SUM|
+|25.|[3 SUM](https://leetcode.com/problems/3sum/)|
 |26.|[Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/)|
 |27.|Remove duplicates from Sorted Array|
 |28.|Max. Consecutive Ones|
