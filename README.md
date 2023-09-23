@@ -24,17 +24,17 @@
 
 |S.NO.|PROBLEM|SOLUTION|                                                                        
 |-----|-------|-----|
-|1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Set%20Matrix%20Zeroes.cpp)
-|2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Pascal's%20Triangle.cpp)
+|1.|[Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)|[LINK](/Day1/Set%20Matrix%20Zeroes.cpp)
+|2.|[Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)|[LINK](/Day1/Pascal's%20Triangle.cpp)
 |3.|[Next Permutation](https://leetcode.com/problems/next-permutation/)|
-|4.|[Kadane's Algo](https://leetcode.com/problems/maximum-subarray/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Kadane's%20Algo.cpp)
-|5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Sort%20Colors.cpp)|
-|6.|[Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|
-|7.|[Rotate Matrix](https://leetcode.com/problems/rotate-image/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Rotate%20Image.cpp)
-|8.|[Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/description/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Merge%20Intervals.cpp)
-|9.|[Merge 2 Sorted Arrays without Extra Space](https://leetcode.com/problems/merge-sorted-array/description/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Merge%20Without%20Extra%20Space.cpp)
-|10.|[Find duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/description/)|[LINK](https://github.com/utkarsh006/SDE-SHEET-180/blob/main/ARRAYS%20AND%20MATRIX/Find%20the%20Duplicate%20Number.cpp)
-|11.|[Repeat and Missing number](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)|[LINK](/ARRAYS%20AND%20MATRIX/Find%20Repeating%20and%20Missing.cpp)
+|4.|[Kadane's Algo](https://leetcode.com/problems/maximum-subarray/)|[LINK](/Day1/Kadane's%20Algo.cpp)
+|5.|[Dutch National Flag Algo](https://leetcode.com/problems/sort-colors/)|[LINK](/Day1/Sort%20Colors.cpp)|
+|6.|[Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[LINK](/Day1/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|
+|7.|[Rotate Matrix](https://leetcode.com/problems/rotate-image/)|[LINK](/Day2/Rotate%20Image.cpp)
+|8.|[Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/description/)|[LINK](/Day2/Merge%20Intervals.cpp)
+|9.|[Merge 2 Sorted Arrays without Extra Space](https://leetcode.com/problems/merge-sorted-array/description/)|[LINK](/Day2/Merge%20Without%20Extra%20Space.cpp)
+|10.|[Find duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/description/)|[LINK](/Day2/Find%20the%20Duplicate%20Number.cpp)
+|11.|[Repeat and Missing number](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)|[LINK](/Day2/Find%20Repeating%20and%20Missing.cpp)
 |12.|Inversion Of Array|
 |13.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
 |14.|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|
