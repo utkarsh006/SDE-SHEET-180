@@ -35,7 +35,7 @@
 |9.|[Merge 2 Sorted Arrays without Extra Space](https://leetcode.com/problems/merge-sorted-array/description/)|[LINK](/Day2/Merge%20Without%20Extra%20Space.cpp)
 |10.|[Find duplicate in an array of N+1 integers](https://leetcode.com/problems/find-the-duplicate-number/description/)|[LINK](/Day2/Find%20the%20Duplicate%20Number.cpp)
 |11.|[Repeat and Missing number](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)|[LINK](/Day2/Find%20Repeating%20and%20Missing.cpp)
-|12.|Inversion Of Array|
+|12.|[Inversion Of Array](https://www.codingninjas.com/studio/problems/count-inversions_615?leftPanelTabValue=PROBLEM)|[LINK](/Day2/Count%20Inversions.cpp)
 |13.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|
 |14.|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|
 |15.|[Majority Element (> N/2 Times)](https://leetcode.com/problems/majority-element/)|
